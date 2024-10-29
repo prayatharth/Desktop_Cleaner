@@ -1,6 +1,8 @@
 # Desktop Cleaner
 
-It is a basic python script that will help to clean desktop
+It is a basic python script that will help to clean desktop.
+
+Here is screenshot for the custom clean for the pdf files
 
 Before:
 
